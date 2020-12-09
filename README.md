@@ -36,3 +36,4 @@ If you don't want it:
 
 Spotted a mistake? Questions? Suggestions?  
 [Open an Issue](https://github.com/kojder/travis-ci-tutorial-java/issues/new)!
+[More details on confluence.](https://eclipsedigital.atlassian.net/wiki/spaces/SAPUC/pages/16548066/SAP+B2B+Lite+Pack)
